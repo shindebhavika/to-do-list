@@ -19,10 +19,12 @@ html {
     width: 100%;
     min-height: 100vh;
     /* background-color: #bc4749; */
+
+
     padding: 1rem;
-    /* background: rgb(238,174,202);
-background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%); */
-background-color: black;
+    background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+
 }
 
 .todo-app{
